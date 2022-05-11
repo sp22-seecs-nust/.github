@@ -1,1 +1,1 @@
-# .github
+# Mobile Application Development for SMEs
